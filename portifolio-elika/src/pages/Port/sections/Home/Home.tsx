@@ -15,7 +15,7 @@ const Home = () => {
         </h3>
 
         <div className="flex text-2xl mt-16 max-w-[30%] justify-between text-white">
-          <div className="border rounded-full w-15 h-15 flex items-center justify-center hover:bg-orange-600">
+          <div className="border rounded-full w-15 h-15 flex items-center justify-center hover:bg-fuchsia-500">
             <button>
               <i className="fi fi-brands-instagram cursor-pointer"></i>
             </button>
@@ -27,7 +27,7 @@ const Home = () => {
             </button>
           </div>
 
-          <div className="border rounded-full w-15 h-15 flex items-center justify-center hover:bg-red-600">
+          <div className="border rounded-full w-15 h-15 flex items-center justify-center hover:bg-red-500">
           <button>
             <i className="fi fi-rr-envelope cursor-pointer"></i>
           </button>
